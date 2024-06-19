@@ -3,3 +3,4 @@ Data contain monthly data for 55 subdistricts in Selangor (not individually labe
 2. Precipitation (P) - monthly values in millimetres
 3. Lans Surface Temperature (T) - monthly values in degrees celcius (oC)
 The monthly hotspots were analused using the Getis Ord Gi* hotspot analysis in the ArcGIS Pro software
+Leptospirosis cases were extracted from State Health Department, satellite data from the NASA Geovanni EarthData website.
