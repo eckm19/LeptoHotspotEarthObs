@@ -8,7 +8,7 @@ Satellite data for monthly rainfall and LST was retrieved from the NASA Geovanni
 Data contains monthly data for 55 subdistricts in Selangor (not individually labelled) from 2011 tp 2019 - (5 columns and 5940 rows)
 1. leptospirosis hotspot (H) (Yes[1] or No[0].
 2. Precipitation (P) - monthly values in millimetres
-3. Land Surface Temperature (T) - monthly values in degrees celsius (oC)
+3. Land Surface Temperature (T) - monthly values in degrees Celsius (oC)
 
 The code snippets used for machine learning data analysis are also available. Codes include three algorithms used:
 1.  LGBM, 2. Random Forest, and 3. SVM
